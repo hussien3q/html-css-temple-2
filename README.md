@@ -1,2 +1,2 @@
-# temple2
+# templet-2
 html and css
